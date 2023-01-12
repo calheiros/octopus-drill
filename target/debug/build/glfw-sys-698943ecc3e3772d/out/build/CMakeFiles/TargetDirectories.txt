@@ -1,0 +1,15 @@
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/CMakeFiles/uninstall.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/CMakeFiles/edit_cache.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/CMakeFiles/rebuild_cache.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/CMakeFiles/list_install_components.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/CMakeFiles/install.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/CMakeFiles/install/local.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/CMakeFiles/install/strip.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/src/CMakeFiles/update_mappings.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/src/CMakeFiles/glfw.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/src/CMakeFiles/edit_cache.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/src/CMakeFiles/rebuild_cache.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/src/CMakeFiles/list_install_components.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/src/CMakeFiles/install.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/src/CMakeFiles/install/local.dir
+/home/1rishman/Projects/Rust/my-game/target/debug/build/glfw-sys-698943ecc3e3772d/out/build/src/CMakeFiles/install/strip.dir
